@@ -1,0 +1,1507 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="globo" tvg-name="Globo Rio" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo Rio
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades",TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1,GB SP FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047306
+#EXTINF:-1,GB SP HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047305
+#EXTINF:-1,GB SP SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047304
+#EXTINF:-1,GB RJ HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/2823
+
+#EXTINF:-1,RECORDTV SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047247
+
+#EXTINF:-1,BAND FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10036718
+#EXTINF:-1,BAND HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/9032
+#EXTINF:-1,BAND SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047349
+
+#EXTINF:-1,SBT SP FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047242
+#EXTINF:-1,SBT HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/16849
+#EXTINF:-1,SBT SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047241
+
+#EXTINF:-1,REDETV! FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047244
+#EXTINF:-1,REDETV! SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047243
+
+#EXTINF:-1,FUTURA SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047308
+#EXTINF:-1,TV GAZETA FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047213
+#EXTINF:-1,TV GAZETA SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047212
+
+#EXTINF:-1,CANAL DO BOI FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10048418
+
+#EXTINF:-1,SPORTV FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/5784
+#EXTINF:-1,SPORTV HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/4899
+#EXTINF:-1,SPORTV 2 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/4900
+#EXTINF:-1,SPORTV 3 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17104
+#EXTINF:-1,FOX SPORTS HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/8992
+#EXTINF:-1,FOX SPORTS SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047310
+#EXTINF:-1,FOX SPORTS 2 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047309
+
+#EXTINF:-1,ESPN FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047321
+#EXTINF:-1,ESPN SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047320
+#EXTINF:-1,ESPN 2 FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047325
+#EXTINF:-1,ESPN 2 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/4962
+#EXTINF:-1,ESPN 2 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047324
+#EXTINF:-1,ESPN BRASIL HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/2843
+#EXTINF:-1,ESPN BRASIL SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047323
+#EXTINF:-1,ESPN EXTRA HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17092
+#EXTINF:-1,ESPN EXTRA SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047322
+
+#EXTINF:-1,BAND SPORTS HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17138
+
+#EXTINF:-1,OFF FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047251
+#EXTINF:-1,OFF SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047250
+
+#EXTINF:-1,FISH TV SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047319
+
+#EXTINF:-1,COMBATE SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047337
+
+#EXTINF:-1,PREMIERE CLUBES HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055200
+#EXTINF:-1,PREMIERE CLUBES SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055199
+
+#EXTINF:-1,PREMIERE 2 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055198
+#EXTINF:-1,PREMIERE 2 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055197
+
+#EXTINF:-1,PREMIERE 3 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055196
+#EXTINF:-1,PREMIERE 3 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055195
+
+#EXTINF:-1,PREMIERE 4 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055194
+#EXTINF:-1,PREMIERE 4 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055193
+
+#EXTINF:-1,PREMIERE 5 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055192
+#EXTINF:-1,PREMIERE 5 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055191
+
+#EXTINF:-1,PREMIERE 6 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055190
+#EXTINF:-1,PREMIERE 6 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055189
+
+#EXTINF:-1,PREMIERE 7 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055188
+#EXTINF:-1,PREMIERE 7 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055187
+
+#EXTINF:-1,PREMIERE 8 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10055186
+
+#EXTINF:-1,TC PREMIUM FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047229
+#EXTINF:-1,TC PREMIUM HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17101
+#EXTINF:-1,TC PREMIUM SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047228
+
+#EXTINF:-1,TC ACTION FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047235
+#EXTINF:-1,TC ACTION HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17103
+#EXTINF:-1,TC ACTION SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047234
+
+#EXTINF:-1,TC PIPOCA FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047227
+#EXTINF:-1,TC PIPOCA HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/5441
+#EXTINF:-1,TC PIPOCA SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047226
+
+#EXTINF:-1,TC FUN FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047233
+#EXTINF:-1,TC FUN HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17102
+#EXTINF:-1,TC FUN SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047232
+
+#EXTINF:-1,TC TOUCH FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047225
+#EXTINF:-1,TC TOUCH HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17100
+#EXTINF:-1,TC TOUCH SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047224
+
+#EXTINF:-1,TC CULT FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047231
+#EXTINF:-1,TC CULT HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17153
+#EXTINF:-1,TC CULT SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047230
+
+#EXTINF:-1,MEGAPIX FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047269
+#EXTINF:-1,MEGAPIX HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17117
+#EXTINF:-1,MEGAPIX SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047268
+
+#EXTINF:-1,UNIVERSAL TV FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047207
+#EXTINF:-1,UNIVERSAL TV HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17097
+
+#EXTINF:-1,STUDIO UNIVERSAL FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047238
+#EXTINF:-1,STUDIO UNIVERSAL HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17047
+#EXTINF:-1,STUDIO UNIVERSAL SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047206
+
+#EXTINF:-1,SYFY HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17046
+
+#EXTINF:-1,CANAL BRASIL HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10040736
+
+#EXTINF:-1,HBO FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047293
+#EXTINF:-1,HBO HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/16741
+#EXTINF:-1,HBO SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047292
+
+#EXTINF:-1,HBO 2 FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047297
+#EXTINF:-1,HBO 2 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17123
+#EXTINF:-1,HBO 2 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047296
+
+#EXTINF:-1,HBO+ FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047283
+#EXTINF:-1,HBO+ HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17121
+#EXTINF:-1,HBO+ SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047282
+
+#EXTINF:-1,HBO FAMILY FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047295
+#EXTINF:-1,HBO FAMILY HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17122
+#EXTINF:-1,HBO FAMILY SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047294
+
+#EXTINF:-1,HBO SIGNATURE FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047287
+#EXTINF:-1,HBO SIGNATURE HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17142
+#EXTINF:-1,HBO SIGNATURE SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047286
+
+#EXTINF:-1,HBO MUNDI FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047291
+#EXTINF:-1,HBO MUNDI HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/4766
+#EXTINF:-1,HBO MUNDI SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047290
+
+#EXTINF:-1,HBO POP FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047289
+#EXTINF:-1,HBO POP SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047288
+
+#EXTINF:-1,HBO XTREME FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047285
+#EXTINF:-1,HBO XTREME HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/4767
+#EXTINF:-1,HBO XTREME SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047284
+
+#EXTINF:-1,A&E FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047357
+#EXTINF:-1,A&E HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17070
+#EXTINF:-1,A&E SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047356
+
+#EXTINF:-1,AMC FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047355
+#EXTINF:-1,AMC HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/7511
+#EXTINF:-1,AMC SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047354
+
+#EXTINF:-1,AXN FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047351
+#EXTINF:-1,AXN HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17148
+#EXTINF:-1,AXN SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047350
+
+#EXTINF:-1,CANAL SONY HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/2869
+#EXTINF:-1,CANAL SONY SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047344
+
+#EXTINF:-1,CINEMAX FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047341
+#EXTINF:-1,CINEMAX HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/3751
+#EXTINF:-1,CINEMAX SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047340
+
+#EXTINF:-1,COMEDY CENTRAL HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17065
+
+#EXTINF:-1,STAR CHANNEL FHD²
+http://akamaizedx.com:80/odair100/odair100/6284
+#EXTINF:-1,STAR CHANNEL HD²
+http://akamaizedx.com:80/odair100/odair100/17128
+
+#EXTINF:-1,STAR CHANNEL SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047316
+
+#EXTINF:-1,STAR LIFE SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047315
+
+#EXTINF:-1,STAR HITS FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047314
+#EXTINF:-1,STAR HITS SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047313
+
+#EXTINF:-1,STAR HITS 2 FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047312
+#EXTINF:-1,STAR HITS 2 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047311
+
+#EXTINF:-1,FX HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17125
+#EXTINF:-1,FX SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047307
+
+#EXTINF:-1,PARAMOUNT FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047249
+#EXTINF:-1,PARAMOUNT HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17112
+#EXTINF:-1,PARAMOUNT SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047248
+
+#EXTINF:-1,SPACE FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047240
+#EXTINF:-1,SPACE HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17106
+#EXTINF:-1,SPACE SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047239
+
+#EXTINF:-1,TBS FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047237
+#EXTINF:-1,TBS HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17139
+#EXTINF:-1,TBS SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047236
+
+#EXTINF:-1,TNT FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047217
+#EXTINF:-1,TNT HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17099
+#EXTINF:-1,TNT SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047216
+
+#EXTINF:-1,TNT SÉRIES FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047219
+#EXTINF:-1,TNT SERIES HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17098
+#EXTINF:-1,TNT SÉRIES SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047218
+
+#EXTINF:-1,WARNER FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047203
+#EXTINF:-1,WARNER HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17095
+#EXTINF:-1,WARNER SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047202
+
+#EXTINF:-1,DISCOVERY TURBO FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047332
+#EXTINF:-1,DISCOVERY TURBO SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047331
+
+#EXTINF:-1,E! SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047326
+
+#EXTINF:-1,FOOD NETWORK FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047318
+#EXTINF:-1,FOOD NETWORK HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17091
+#EXTINF:-1,FOOD NETWORK SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047317
+
+#EXTINF:-1,GNT FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047301
+#EXTINF:-1,GNT HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17124
+#EXTINF:-1,GNT SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047300
+
+#EXTINF:-1,HGTV FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047281
+#EXTINF:-1,HGTV HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17167
+#EXTINF:-1,HGTV SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047280
+
+#EXTINF:-1,HOME & HEALTH FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047277
+#EXTINF:-1,HOME & HEALTH HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17136
+#EXTINF:-1,HOME & HEALTH SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047276
+
+#EXTINF:-1,LIFETIME FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047273
+#EXTINF:-1,LIFETIME SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047272
+
+#EXTINF:-1,MAIS NA TELA FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047271
+#EXTINF:-1,MAIS NA TELA HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17163
+#EXTINF:-1,MAIS NA TELA SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047270
+
+#EXTINF:-1,TLC FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047221
+#EXTINF:-1,TLC HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17045
+#EXTINF:-1,TLC SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047220
+
+#EXTINF:-1,VIVA FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047205
+#EXTINF:-1,VIVA HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17096
+#EXTINF:-1,VIVA SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047204
+
+#EXTINF:-1,WOOHOO FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047201
+#EXTINF:-1,WOOHOO SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047200
+
+#EXTINF:-1,MULTISHOW FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047265
+#EXTINF:-1,MULTISHOW HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17116
+#EXTINF:-1,MULTISHOW SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047264
+
+#EXTINF:-1,BIS HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047348
+#EXTINF:-1,BIS SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047347
+
+#EXTINF:-1,MTV FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047267
+#EXTINF:-1,MTV HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17051
+#EXTINF:-1,MTV SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047266
+
+#EXTINF:-1,MUSIC BOX BRAZIL FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047263
+#EXTINF:-1,MUSIC BOX BRAZIL SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047262
+
+#EXTINF:-1,ANIMAL PLANET FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047353
+#EXTINF:-1,ANIMAL PLANET HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/5825
+#EXTINF:-1,ANIMAL PLANET SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047352
+
+#EXTINF:-1,ID - INVESTIGATION DISCOVERY FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047275
+#EXTINF:-1,ID - INVESTIGATION DISCOVERY SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047274
+
+#EXTINF:-1,DISCOVERY CHANNEL HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17137
+#EXTINF:-1,DISCOVERY CHANNEL SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047335
+
+#EXTINF:-1,DISCOVERY SCIENCE HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17166
+#EXTINF:-1,DISCOVERY SCIENCE SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047333
+
+#EXTINF:-1,THEATER FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047223
+#EXTINF:-1,THEATER HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17135
+#EXTINF:-1,THEATER SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047222
+
+#EXTINF:-1,WORLD FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047199
+#EXTINF:-1,WORLD SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047198
+
+#EXTINF:-1,NAT GEO WILD FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047259
+#EXTINF:-1,NAT GEO WILD HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17114
+#EXTINF:-1,NAT GEO WILD SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047258
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047261
+#EXTINF:-1,NATIONAL GEOGRAPHIC HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17115
+#EXTINF:-1,NATIONAL GEOGRAPHIC SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047260
+
+#EXTINF:-1,HISTORY FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047279
+#EXTINF:-1,HISTORY HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17119
+#EXTINF:-1,HISTORY SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047278
+
+#EXTINF:-1,H2 FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047299
+#EXTINF:-1,H2 HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17120
+#EXTINF:-1,H2 SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047298
+
+#EXTINF:-1,CURTA! SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047336
+
+#EXTINF:-1,BAND NEWS FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10048416
+#EXTINF:-1,BAND NEWS HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10048417
+
+#EXTINF:-1,CNN BRASIL FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047339
+#EXTINF:-1,CNN BRASIL HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10041070
+#EXTINF:-1,CNN BRASIL SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047338
+
+#EXTINF:-1,BOOMERANG FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047346
+#EXTINF:-1,BOOMERANG HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17040
+#EXTINF:-1,BOOMERANG SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047345
+
+#EXTINF:-1,CARTOON NETWORK FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047343
+#EXTINF:-1,CARTOON NETWORK HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17067
+#EXTINF:-1,CARTOON NETWORK SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047342
+
+#EXTINF:-1,DISCOVERY KIDS HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17063
+#EXTINF:-1,DISCOVERY KIDS SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047334
+
+#EXTINF:-1,DISNEY CHANNEL FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047330
+#EXTINF:-1,DISNEY CHANNEL HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17061
+#EXTINF:-1,DISNEY CHANNEL SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047329
+
+#EXTINF:-1,DISNEY JUNIOR FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047328
+#EXTINF:-1,DISNEY JUNIOR HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/5293
+#EXTINF:-1,DISNEY JUNIOR SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047327
+
+#EXTINF:-1,GLOOB HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17056
+
+#EXTINF:-1,NAT GEO KIDS FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047257
+#EXTINF:-1,NAT GEO KIDS HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17050
+#EXTINF:-1,NAT GEO KIDS SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047256
+
+#EXTINF:-1,NICKELODEON FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047255
+#EXTINF:-1,NICK HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17048
+#EXTINF:-1,NICKELODEON SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047254
+
+#EXTINF:-1,NICK JR. FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047253
+#EXTINF:-1,NICK JR HDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/17157
+#EXTINF:-1,NICK JR. SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047252
+
+#EXTINF:-1,TV RÁ TIM BUM FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047209
+#EXTINF:-1,TV RÁ TIM BUM SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047208
+
+#EXTINF:-1,REDE VIDA FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047246
+#EXTINF:-1,REDE VIDA SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047245
+
+#EXTINF:-1,TV APARECIDA FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047215
+#EXTINF:-1,TV APARECIDA SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047214
+
+#EXTINF:-1,TV NOVO TEMPO FHDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047211
+#EXTINF:-1,TV NOVO TEMPO SDᴮᴿ
+http://akamaizedx.com:80/odair100/odair100/10047210
+
+#EXTINF:-1,CINE SKY 01
+http://akamaizedx.com:80/odair100/odair100/10040586
+#EXTINF:-1,CINE SKY 02
+http://akamaizedx.com:80/odair100/odair100/10040587
+#EXTINF:-1,CINE SKY 03
+http://akamaizedx.com:80/odair100/odair100/10040588
+#EXTINF:-1,CINE SKY 04
+http://akamaizedx.com:80/odair100/odair100/10040589
+#EXTINF:-1,CINE SKY 05
+http://akamaizedx.com:80/odair100/odair100/10040590
+#EXTINF:-1,CINE SKY 06
+http://akamaizedx.com:80/odair100/odair100/10040591
+#EXTINF:-1,CINE SKY 07
+http://akamaizedx.com:80/odair100/odair100/10040592
+#EXTINF:-1,CINE SKY 08
+http://akamaizedx.com:80/odair100/odair100/10040593
+#EXTINF:-1,CINE SKY 09
+http://akamaizedx.com:80/odair100/odair100/10040594
+#EXTINF:-1,HISTORY FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039557
+#EXTINF:-1,HISTORY HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039558
+#EXTINF:-1,HISTORY HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040786
+#EXTINF:-1,ID FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039559
+#EXTINF:-1,ID HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039560
+#EXTINF:-1,ID FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039562
+#EXTINF:-1,LIFETIME FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039563
+#EXTINF:-1,LIFETIME HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039564
+#EXTINF:-1,MAIS GLOBOSAT FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039567
+#EXTINF:-1,MAIS GLOBOSAT HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039568
+#EXTINF:-1,MEGA TV FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039569
+#EXTINF:-1,MEGAPIX FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039570
+#EXTINF:-1,MEGAPIX HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039571
+#EXTINF:-1,MTV FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039572
+#EXTINF:-1,MTV HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039573
+#EXTINF:-1,MTV LIVE FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039574
+#EXTINF:-1,MTV LIVE HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039575
+#EXTINF:-1,MULTISHOW FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039576
+#EXTINF:-1,MULTISHOW HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039577
+#EXTINF:-1,MUSIC BOX BRAZIL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039578
+#EXTINF:-1,MUSIC BOX BRAZIL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039579
+#EXTINF:-1,NAT GEO KIDS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039580
+#EXTINF:-1,NAT GEO KIDS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039581
+#EXTINF:-1,NATGEO WILD FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039582
+#EXTINF:-1,NATGEO WILD HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039583
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039584
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039585
+#EXTINF:-1,NICK JR. HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039587
+#EXTINF:-1,NICKELODEON FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039588
+#EXTINF:-1,NICKELODEON HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039589
+#EXTINF:-1,OFF FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039590
+#EXTINF:-1,OFF HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039591
+#EXTINF:-1,PAI ETERNO FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039592
+#EXTINF:-1,PAI ETERNO HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039593
+#EXTINF:-1,PARAMOUNT FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039594
+#EXTINF:-1,PARAMOUNT HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039595
+#EXTINF:-1,PREMIERE 3 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039596
+#EXTINF:-1,PREMIERE 3 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039597
+#EXTINF:-1,PREMIERE 2 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039600
+#EXTINF:-1,PREMIERE 2 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039601
+#EXTINF:-1,PREMIERE 4 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039602
+#EXTINF:-1,PREMIERE 4 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039603
+#EXTINF:-1,PREMIERE 5 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039604
+#EXTINF:-1,PREMIERE 5 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039605
+#EXTINF:-1,PREMIERE 6 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039606
+#EXTINF:-1,PREMIERE 6 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039607
+#EXTINF:-1,PREMIERE 7 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039608
+#EXTINF:-1,PREMIERE 7 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039609
+#EXTINF:-1,PREMIERE CLUBES FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039610
+#EXTINF:-1,PREMIERE CLUBES HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039611
+#EXTINF:-1,PRIME BOX BRAZIL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039612
+#EXTINF:-1,PRIME BOX BRAZIL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039613
+#EXTINF:-1,RECORDTV ITAPOAN HD*
+http://akamaizedx.com:80/odair100/odair100/10054428
+#EXTINF:-1,RECORDTV ITAPOAN SD*
+http://akamaizedx.com:80/odair100/odair100/10054427
+#EXTINF:-1,RECORDTV LITORAL/VALE DO PARAIBA FHD*
+http://akamaizedx.com:80/odair100/odair100/10054426
+#EXTINF:-1,RECORDTV LITORAL/VALE DO PARAIBA HD*
+http://akamaizedx.com:80/odair100/odair100/10054425
+#EXTINF:-1,RECORDTV LITORAL/VALE DO PARAIBA SD*
+http://akamaizedx.com:80/odair100/odair100/10054424
+#EXTINF:-1,RECORDTV MANAUS HD*
+http://akamaizedx.com:80/odair100/odair100/10054423
+#EXTINF:-1,RECORDTV MANAUS SD*
+http://akamaizedx.com:80/odair100/odair100/10054422
+#EXTINF:-1,RECORDTV PORTUGAL
+http://akamaizedx.com:80/odair100/odair100/1717
+#EXTINF:-1,RECORDTV SP FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039614
+#EXTINF:-1,RECORDTV SP HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039615
+#EXTINF:-1,REDE GOSPEL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039616
+#EXTINF:-1,REDE VIDA FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039617
+#EXTINF:-1,REDE VIDA HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039618
+#EXTINF:-1,REDETV! FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039619
+#EXTINF:-1,REDETV! HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039620
+#EXTINF:-1,SBT SP FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039621
+#EXTINF:-1,SBT SP HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039622
+#EXTINF:-1,SMITHSONIAN FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039623
+#EXTINF:-1,SMITHSONIAN HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039624
+#EXTINF:-1,SPACE FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039625
+#EXTINF:-1,SPACE HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039626
+#EXTINF:-1,SPORTV 2 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039627
+#EXTINF:-1,SPORTV 2 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039628
+#EXTINF:-1,SPORTV FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039629
+#EXTINF:-1,SPORTV HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039630
+#EXTINF:-1,SPORTV 3 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039631
+#EXTINF:-1,SPORTV 3 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039632
+#EXTINF:-1,STUDIO UNIVERSAL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039633
+#EXTINF:-1,STUDIO UNIVERSAL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039634
+#EXTINF:-1,TBS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039635
+#EXTINF:-1,TBS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039636
+#EXTINF:-1,TELECINE ACTION FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039637
+#EXTINF:-1,TELECINE ACTION HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039638
+#EXTINF:-1,TELECINE CULT FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039639
+#EXTINF:-1,TELECINE CULT HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039640
+#EXTINF:-1,TELECINE FUN FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039641
+#EXTINF:-1,TELECINE FUN HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039642
+#EXTINF:-1,TELECINE PIPOCA FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039643
+#EXTINF:-1,TELECINE PIPOCA HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039644
+#EXTINF:-1,TELECINE PREMIUM FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039645
+#EXTINF:-1,TELECINE PREMIUM HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039646
+#EXTINF:-1,TELECINE TOUCH FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039647
+#EXTINF:-1,TELECINE TOUCH HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039648
+#EXTINF:-1,TLC FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039649
+#EXTINF:-1,TLC HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039650
+#EXTINF:-1,TNT SERIES SD [LEG]*
+http://akamaizedx.com:80/odair100/odair100/10055119
+#EXTINF:-1,TNT FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039651
+#EXTINF:-1,TNT HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039652
+#EXTINF:-1,TNT SÉRIES FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039653
+#EXTINF:-1,TNT SÉRIES HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039654
+#EXTINF:-1,TRAVEL BOX BRAZIL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039655
+#EXTINF:-1,TRAVEL BOX BRAZIL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039656
+#EXTINF:-1,TV APARECIDA FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039657
+#EXTINF:-1,TV APARECIDA HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039658
+#EXTINF:-1,TV BRASIL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039659
+#EXTINF:-1,TV BRASIL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039660
+#EXTINF:-1,TV GAZETA FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039661
+#EXTINF:-1,TV GAZETA HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039662
+#EXTINF:-1,TV NOVO TEMPO FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039663
+#EXTINF:-1,TV NOVO TEMPO HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039664
+#EXTINF:-1,TV RÁ TIM BUM FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039665
+#EXTINF:-1,TV RÁ TIM BUM HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039666
+#EXTINF:-1,UNIVERSAL TV FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039667
+#EXTINF:-1,UNIVERSAL TV HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039668
+#EXTINF:-1,VH1 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039669
+#EXTINF:-1,VH1 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039670
+#EXTINF:-1,VIVA FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039671
+#EXTINF:-1,VIVA HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039672
+#EXTINF:-1,WARNER CHANNEL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039673
+#EXTINF:-1,WARNER CHANNEL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039674
+#EXTINF:-1,WOOHOO FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039675
+#EXTINF:-1,WOOHOO HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039676
+#EXTINF:-1,ZOOMOO FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039677
+#EXTINF:-1,ZOOMOO HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039678
+#EXTINF:-1,ID - INVESTIGATION DISCOVERY HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040787
+#EXTINF:-1,LIFETIME HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040788
+#EXTINF:-1,MAIS GLOBOSAT HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040789
+#EXTINF:-1,MEGAPIX HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040790
+#EXTINF:-1,MTV HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040791
+#EXTINF:-1,MULTISHOW HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040793
+#EXTINF:-1,MUSIC BOX BRAZIL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040794
+#EXTINF:-1,NAT GEO KIDS HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040795
+#EXTINF:-1,NATGEO WILD HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040796
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040797
+#EXTINF:-1,NICK JR. HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040798
+#EXTINF:-1,NICKELODEON HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040799
+#EXTINF:-1,OFF HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040800
+#EXTINF:-1,PARAMOUNT HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040801
+#EXTINF:-1,PREMIERE 2 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040802
+#EXTINF:-1,PREMIERE 3 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040803
+#EXTINF:-1,PREMIERE 4 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040804
+#EXTINF:-1,PREMIERE 5 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040805
+#EXTINF:-1,PREMIERE 6 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040806
+#EXTINF:-1,PREMIERE 7 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040807
+#EXTINF:-1,PREMIERE CLUBES HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040808
+#EXTINF:-1,PRIME BOX BRAZIL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040809
+#EXTINF:-1,RECORD NEWS HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040810
+#EXTINF:-1,REDETV! HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040813
+#EXTINF:-1,SPACE HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040817
+#EXTINF:-1,SPORTV HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040818
+#EXTINF:-1,SPORTV 2 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040819
+#EXTINF:-1,SPORTV 3 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040820
+#EXTINF:-1,STUDIO UNIVERSAL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040821
+#EXTINF:-1,SYFY HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040822
+#EXTINF:-1,TBS HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040823
+#EXTINF:-1,TELECINE ACTION HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040824
+#EXTINF:-1,TELECINE CULT HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040825
+#EXTINF:-1,TELECINE FUN HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040826
+#EXTINF:-1,TELECINE PIPOCA HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040827
+#EXTINF:-1,TELECINE PREMIUM HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040828
+#EXTINF:-1,TELECINE TOUCH HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040829
+#EXTINF:-1,TLC HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040830
+#EXTINF:-1,TNT HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040831
+#EXTINF:-1,TNT SÉRIES HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040832
+#EXTINF:-1,TV RÁ TIM BUM HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040838
+#EXTINF:-1,UNIVERSAL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040839
+#EXTINF:-1,VH1 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040840
+#EXTINF:-1,VIVA HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040842
+#EXTINF:-1,WARNER HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040843
+#EXTINF:-1,ZOOMOO HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040845
+#EXTINF:-1,CONMEBOL 2 NITRO
+http://akamaizedx.com:80/odair100/odair100/10049954
+#EXTINF:-1,CONMEBOL 1 NITRO
+http://akamaizedx.com:80/odair100/odair100/10049953
+#EXTINF:-1,CULTURA FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039468
+#EXTINF:-1,CULTURA HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039469
+#EXTINF:-1,CURTA! FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039470
+#EXTINF:-1,CURTA! HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039471
+#EXTINF:-1,CURTA! HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040743
+#EXTINF:-1,DISC. HOME & HEALTH FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039472
+#EXTINF:-1,DISC. HOME & HEALTH HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039473
+#EXTINF:-1,DISC. HOME & HEALTH HD HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040745
+#EXTINF:-1,DISCOVERY CHANNEL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039474
+#EXTINF:-1,DISCOVERY CHANNEL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039475
+#EXTINF:-1,DISCOVERY CHANNEL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040744
+#EXTINF:-1,DISCOVERY KIDS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039476
+#EXTINF:-1,DISCOVERY KIDS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039477
+#EXTINF:-1,DISCOVERY KIDS HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040746
+#EXTINF:-1,DISCOVERY SCIENCE FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039478
+#EXTINF:-1,DISCOVERY SCIENCE HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039479
+#EXTINF:-1,DISCOVERY SCIENCE HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040747
+#EXTINF:-1,DISCOVERY THEATER FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039480
+#EXTINF:-1,DISCOVERY THEATER HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039481
+#EXTINF:-1,DISCOVERY THEATER HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040748
+#EXTINF:-1,DISCOVERY TURBO FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039482
+#EXTINF:-1,DISCOVERY TURBO HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039483
+#EXTINF:-1,DISCOVERY TURBO HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040749
+#EXTINF:-1,DISCOVERY WORLD FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039484
+#EXTINF:-1,DISCOVERY WORLD HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039485
+#EXTINF:-1,DISCOVERY WORLD HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040750
+#EXTINF:-1,DISNEY CHANNEL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039486
+#EXTINF:-1,DISNEY CHANNEL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039487
+#EXTINF:-1,DISNEY CHANNEL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040751
+#EXTINF:-1,DISNEY JUNIOR FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039488
+#EXTINF:-1,DISNEY JUNIOR HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039489
+#EXTINF:-1,DISNEY JUNIOR HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040752
+#EXTINF:-1,DISNEY XD HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040753
+#EXTINF:-1,E! FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039492
+#EXTINF:-1,E! HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039493
+#EXTINF:-1,E! HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040754
+#EXTINF:-1,ESPN BRASIL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039494
+#EXTINF:-1,ESPN BRASIL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039495
+#EXTINF:-1,ESPN BRASIL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040755
+#EXTINF:-1,ESPN EXTRA FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039496
+#EXTINF:-1,ESPN EXTRA HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039497
+#EXTINF:-1,ESPN EXTRA HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040756
+#EXTINF:-1,ESPN FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039498
+#EXTINF:-1,ESPN HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039499
+#EXTINF:-1,ESPN HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040757
+#EXTINF:-1,ESPN 2 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039500
+#EXTINF:-1,ESPN 2 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039501
+#EXTINF:-1,ESPN 2 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040758
+#EXTINF:-1,EUROCHANNEL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039502
+#EXTINF:-1,EUROCHANNEL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039503
+#EXTINF:-1,FASHION TV FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039504
+#EXTINF:-1,FASHION TV HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039505
+#EXTINF:-1,FASHION TV HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040760
+#EXTINF:-1,FILM&ARTS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039506
+#EXTINF:-1,FILM&ARTS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039507
+#EXTINF:-1,FISH TV FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039508
+#EXTINF:-1,FISH TV HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039509
+#EXTINF:-1,FISH TV HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040761
+#EXTINF:-1,FOOD NETWORK FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039510
+#EXTINF:-1,FOOD NETWORK HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039511
+#EXTINF:-1,FOOD NETWORK HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040762
+#EXTINF:-1,FOX FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039512
+#EXTINF:-1,FOX HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039513
+#EXTINF:-1,STAR CHANNEL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040763
+#EXTINF:-1,STAR LIFE FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039514
+#EXTINF:-1,STAR LIFE HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039515
+#EXTINF:-1,STAR LIFE HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040764
+#EXTINF:-1,STAR HITS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039516
+#EXTINF:-1,STAR HITS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039517
+#EXTINF:-1,STAR HITS HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040765
+#EXTINF:-1,STAR HITS 2 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039518
+#EXTINF:-1,STAR HITS 2 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039519
+#EXTINF:-1,STAR HITS 2 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040766
+#EXTINF:-1,FOX SPORTS 2 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039520
+#EXTINF:-1,FOX SPORTS 2 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039521
+#EXTINF:-1,FOX SPORTS 2 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040767
+#EXTINF:-1,FOX SPORTS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039522
+#EXTINF:-1,FOX SPORTS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039523
+#EXTINF:-1,FOX SPORTS HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040768
+#EXTINF:-1,FUTURA FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039524
+#EXTINF:-1,FUTURA HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039525
+#EXTINF:-1,FX FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039526
+#EXTINF:-1,FX HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039527
+#EXTINF:-1,FX HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040770
+#EXTINF:-1,GB SP FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039528
+#EXTINF:-1,GB SP HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039529
+#EXTINF:-1,GB RJ⁺²
+http://akamaizedx.com:80/odair100/odair100/10040846
+#EXTINF:-1,GB MINAS⁺²
+http://akamaizedx.com:80/odair100/odair100/10040847
+#EXTINF:-1,GB VERDES MARES⁺²
+http://akamaizedx.com:80/odair100/odair100/10040848
+#EXTINF:-1,GB NSC FLORIANOPOLIS⁺²
+http://akamaizedx.com:80/odair100/odair100/10040849
+#EXTINF:-1,GB RPC HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040772
+#EXTINF:-1,GB NEWS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039530
+#EXTINF:-1,GB NEWS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039531
+#EXTINF:-1,GB NEWS HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040771
+#EXTINF:-1,GLOOB FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039532
+#EXTINF:-1,GLOOB HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039533
+#EXTINF:-1,GLOOB HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040773
+#EXTINF:-1,GLOOBINHO HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040774
+#EXTINF:-1,GNT FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039534
+#EXTINF:-1,GNT HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039535
+#EXTINF:-1,GNT HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040775
+#EXTINF:-1,HBO FAMILY FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039536
+#EXTINF:-1,HBO FAMILY HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039537
+#EXTINF:-1,HBO FAMILY HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040778
+#EXTINF:-1,HBO FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039538
+#EXTINF:-1,HBO HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039539
+#EXTINF:-1,HBO HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040779
+#EXTINF:-1,HBO MUNDI FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039540
+#EXTINF:-1,HBO MUNDI HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039541
+#EXTINF:-1,HBO MUNDI HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040780
+#EXTINF:-1,HBO POP FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039542
+#EXTINF:-1,HBO POP HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039543
+#EXTINF:-1,HBO POP HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040781
+#EXTINF:-1,HBO SIGNATURE FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039544
+#EXTINF:-1,HBO SIGNATURE HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039545
+#EXTINF:-1,HBO SIGNATURE HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040782
+#EXTINF:-1,HBO XTREME FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039547
+#EXTINF:-1,HBO XTREME HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039548
+#EXTINF:-1,HBO XTREME HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040783
+#EXTINF:-1,HBO+ FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039549
+#EXTINF:-1,HBO+ HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039550
+#EXTINF:-1,HBO+ HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040777
+#EXTINF:-1,HBO 2 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039551
+#EXTINF:-1,HBO 2 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039552
+#EXTINF:-1,HBO 2 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040784
+#EXTINF:-1,HGTV FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039553
+#EXTINF:-1,HGTV HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039554
+#EXTINF:-1,HGTV HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040785
+#EXTINF:-1,H2 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039555
+#EXTINF:-1,H2 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039556
+#EXTINF:-1,H2 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040776
+#EXTINF:-1,A&E FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039432
+#EXTINF:-1,A&E HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039433
+#EXTINF:-1,A&E HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040724
+#EXTINF:-1,AMC FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039434
+#EXTINF:-1,AMC HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039435
+#EXTINF:-1,AMC HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040725
+#EXTINF:-1,ANIMAL PLANET FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039436
+#EXTINF:-1,ANIMAL PLANET HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039437
+#EXTINF:-1,ANIMAL PLANET HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040726
+#EXTINF:-1,ARTE 1 FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039438
+#EXTINF:-1,ARTE 1 HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039439
+#EXTINF:-1,ARTE 1 HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040727
+#EXTINF:-1,AXN SD [LEG]*
+http://akamaizedx.com:80/odair100/odair100/10055024
+#EXTINF:-1,AXN FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039440
+#EXTINF:-1,AXN HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039441
+#EXTINF:-1,AXN HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040728
+#EXTINF:-1,BABY TV HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040729
+#EXTINF:-1,BAND NEWS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039442
+#EXTINF:-1,BAND NEWS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039443
+#EXTINF:-1,BAND NEWS HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040730
+#EXTINF:-1,BAND SP FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039444
+#EXTINF:-1,BAND SP HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039445
+#EXTINF:-1,BAND SP HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040732
+#EXTINF:-1,BAND SPORTS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039446
+#EXTINF:-1,BAND SPORTS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039447
+#EXTINF:-1,BIS FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039448
+#EXTINF:-1,BIS HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039449
+#EXTINF:-1,BOOMERANG FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039450
+#EXTINF:-1,BOOMERANG HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039451
+#EXTINF:-1,BOOMERANG HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040735
+#EXTINF:-1,CANAL BRASIL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039452
+#EXTINF:-1,CANAL BRASIL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039453
+#EXTINF:-1,CANAL DO BOI FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039454
+#EXTINF:-1,CANAL DO BOI HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039455
+#EXTINF:-1,CANAL SONY FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039456
+#EXTINF:-1,CANAL SONY HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039457
+#EXTINF:-1,CARTOON NETWORK FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039458
+#EXTINF:-1,CARTOON NETWORK HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039459
+#EXTINF:-1,CINEMAX FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039460
+#EXTINF:-1,CINEMAX HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039461
+#EXTINF:-1,CINEMAX HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040739
+#EXTINF:-1,CNN BRASIL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039462
+#EXTINF:-1,CNN BRASIL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039463
+#EXTINF:-1,CNN BRASIL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040740
+#EXTINF:-1,COMBATE FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039464
+#EXTINF:-1,COMBATE HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039465
+#EXTINF:-1,COMBATE HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040741
+#EXTINF:-1,COMEDY CENTRAL FHD⁺
+http://akamaizedx.com:80/odair100/odair100/10039466
+#EXTINF:-1,COMEDY CENTRAL HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039467
+#EXTINF:-1,COMEDY CENTRAL HD⁺²
+http://akamaizedx.com:80/odair100/odair100/10040742
+
+#EXTINF:-1,ANIMAL PLANET 4K
+http://akamaizedx.com:80/odair100/odair100/10048430
+#EXTINF:-1,AXN 4K
+http://akamaizedx.com:80/odair100/odair100/10048419
+#EXTINF:-1,BAND SP 4K
+http://akamaizedx.com:80/odair100/odair100/10039426
+#EXTINF:-1,BBB 1 FHDR
+http://akamaizedx.com:80/odair100/odair100/10054275
+#EXTINF:-1,BBB 2 FHDR
+http://akamaizedx.com:80/odair100/odair100/10054274
+#EXTINF:-1,BBB MOSAICO FHDR
+http://akamaizedx.com:80/odair100/odair100/10054273
+#EXTINF:-1,CARTOON 4K
+http://akamaizedx.com:80/odair100/odair100/10048427
+#EXTINF:-1,CNN BRASIL 4K
+http://akamaizedx.com:80/odair100/odair100/10039425
+#EXTINF:-1,COMEDY CENTRAL 4K
+http://akamaizedx.com:80/odair100/odair100/10048429
+#EXTINF:-1,DISCOVERY TURBO 4K
+http://akamaizedx.com:80/odair100/odair100/10048428
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://akamaizedx.com:80/odair100/odair100/10048334
+#EXTINF:-1,ESPN BRASIL 4K
+http://akamaizedx.com:80/odair100/odair100/10048420
+#EXTINF:-1,FOX 4K
+http://akamaizedx.com:80/odair100/odair100/10048426
+#EXTINF:-1,FOX SPORTS 4K
+http://akamaizedx.com:80/odair100/odair100/10048332
+#EXTINF:-1,GB NEWS 4K
+http://akamaizedx.com:80/odair100/odair100/10039424
+#EXTINF:-1,GB SP 4K
+http://akamaizedx.com:80/odair100/odair100/10039421
+#EXTINF:-1,GNT 4K
+http://akamaizedx.com:80/odair100/odair100/10048425
+#EXTINF:-1,HOME & HEALTH 4K
+http://akamaizedx.com:80/odair100/odair100/10048333
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://akamaizedx.com:80/odair100/odair100/10048331
+#EXTINF:-1,RECORDTV SP 4K
+http://akamaizedx.com:80/odair100/odair100/10042221
+#EXTINF:-1,SBT 4K
+http://akamaizedx.com:80/odair100/odair100/10039422
+#EXTINF:-1,SPORTV 4K
+http://akamaizedx.com:80/odair100/odair100/10048330
+#EXTINF:-1,TC ACTION 4K
+http://akamaizedx.com:80/odair100/odair100/10048423
+#EXTINF:-1,TC PIPOCA 4K
+http://akamaizedx.com:80/odair100/odair100/10048422
+#EXTINF:-1,TC PREMIUM 4K
+http://akamaizedx.com:80/odair100/odair100/10048421
+#EXTINF:-1,UNIVERSAL 4K
+http://akamaizedx.com:80/odair100/odair100/10048424
+#EXTINF:-1,VIVA 4K
+http://akamaizedx.com:80/odair100/odair100/10048335
+
+#EXTINF:-1,PLAYBOY FHD
+http://akamaizedx.com:80/odair100/odair100/16738
+#EXTINF:-1,PLAYBOY FHD*
+http://akamaizedx.com:80/odair100/odair100/10054480
+#EXTINF:-1,PLAYBOY FHD H265
+http://akamaizedx.com:80/odair100/odair100/17341
+#EXTINF:-1,PLAYBOY FHD H265*
+http://akamaizedx.com:80/odair100/odair100/10054479
+#EXTINF:-1,PLAYBOY HD
+http://akamaizedx.com:80/odair100/odair100/2791
+#EXTINF:-1,PLAYBOY HD*
+http://akamaizedx.com:80/odair100/odair100/10054478
+#EXTINF:-1,PLAYBOY HD¹
+http://akamaizedx.com:80/odair100/odair100/365
+#EXTINF:-1,PLAYBOY HD⁺
+http://akamaizedx.com:80/odair100/odair100/10039599
+#EXTINF:-1,PLAYBOY SD*
+http://akamaizedx.com:80/odair100/odair100/10054477
+#EXTINF:-1,SEXY HOT FHD H265
+http://akamaizedx.com:80/odair100/odair100/17286
+#EXTINF:-1,SEXY HOT HD
+http://akamaizedx.com:80/odair100/odair100/17217
+#EXTINF:-1,SEXY HOT SD
+http://akamaizedx.com:80/odair100/odair100/362
+#EXTINF:-1,SEXY HOT SD*
+http://akamaizedx.com:80/odair100/odair100/10054391
+#EXTINF:-1,SEXTREME FHD H265
+http://akamaizedx.com:80/odair100/odair100/17285
+#EXTINF:-1,SEXTREME HD
+http://akamaizedx.com:80/odair100/odair100/17218
+#EXTINF:-1,SEXTREME SD
+http://akamaizedx.com:80/odair100/odair100/364
+#EXTINF:-1,SEXTREME SD*
+http://akamaizedx.com:80/odair100/odair100/10054392
+#EXTINF:-1,VENUS FHD H265
+http://akamaizedx.com:80/odair100/odair100/17282
+#EXTINF:-1,VENUS SD*
+http://akamaizedx.com:80/odair100/odair100/10055071
+#EXTINF:-1,BRASILEIRINHAS 1
+http://akamaizedx.com:80/odair100/odair100/5567
+#EXTINF:-1,BRASILEIRINHAS 2
+http://akamaizedx.com:80/odair100/odair100/17219
+#EXTINF:-1,BRASILEIRINHAS 3
+http://akamaizedx.com:80/odair100/odair100/17220
+#EXTINF:-1,BRASILEIRINHAS 4
+http://akamaizedx.com:80/odair100/odair100/17221
+#EXTINF:-1,REDLIGHT
+http://akamaizedx.com:80/odair100/odair100/2903
+#EXTINF:-1,BRAZZERS TV
+http://akamaizedx.com:80/odair100/odair100/7398
+#EXTINF:-1,HUSTLER
+http://akamaizedx.com:80/odair100/odair100/7395
+#EXTINF:-1,REALITY KINGS
+http://akamaizedx.com:80/odair100/odair100/7401
+#EXTINF:-1,PRIVATE
+http://akamaizedx.com:80/odair100/odair100/2906
+#EXTINF:-1,DORCEL
+http://akamaizedx.com:80/odair100/odair100/3209
+#EXTINF:-1,JASMIN TV
+http://akamaizedx.com:80/odair100/odair100/3736
+#EXTINF:-1,LIBIDO
+http://akamaizedx.com:80/odair100/odair100/19259
+#EXTINF:-1,PASSIE
+http://akamaizedx.com:80/odair100/odair100/19250
+#EXTINF:-1,PINK EROTIC
+http://akamaizedx.com:80/odair100/odair100/19231
+#EXTINF:-1,HOT 2
+http://akamaizedx.com:80/odair100/odair100/4360
+#EXTINF:-1,HOT 4
+http://akamaizedx.com:80/odair100/odair100/10544
+#EXTINF:-1,TRANS 1
+http://akamaizedx.com:80/odair100/odair100/10537
+#EXTINF:-1,TRANS 2
+http://akamaizedx.com:80/odair100/odair100/10538
+#EXTINF:-1,TRANS 3
+http://akamaizedx.com:80/odair100/odair100/10539
+#EXTINF:-1,TRANS 4
+http://akamaizedx.com:80/odair100/odair100/10540
+#EXTINF:-1,ELITE ADULTO 1
+http://akamaizedx.com:80/odair100/odair100/10035252
+#EXTINF:-1,ELITE ADULTO 2
+http://akamaizedx.com:80/odair100/odair100/10035253
+#EXTINF:-1,ELITE TRANS
+http://akamaizedx.com:80/odair100/odair100/10035254
+#EXTINF:-1,ELITE GAY
+http://akamaizedx.com:80/odair100/odair100/10035259
+#EXTINF:-1,24H XXX VIDEOS TESTE DE FUDELIDADE
+http://akamaizedx.com:80/odair100/odair100/10033865
+#EXTINF:-1,24H XXX VIDEOS RUIVAS
+http://akamaizedx.com:80/odair100/odair100/10033866
+#EXTINF:-1,24H XXX VIDEOS PORNO GAY
+http://akamaizedx.com:80/odair100/odair100/10033867
+#EXTINF:-1,24H XXX VIDEOS MIA KHALIFA
+http://akamaizedx.com:80/odair100/odair100/10033868
+#EXTINF:-1,24H XXX VIDEOS LESBICAS
+http://akamaizedx.com:80/odair100/odair100/10033869
+#EXTINF:-1,24H XXX VIDEOS HENTAI
+http://akamaizedx.com:80/odair100/odair100/10033870
+#EXTINF:-1,24H XXX VIDEOS BRASILEIRAS
+http://akamaizedx.com:80/odair100/odair100/10033871
+#EXTINF:-1,24H XXX VIDEOS ANAL
+http://akamaizedx.com:80/odair100/odair100/10033872
+#EXTINF:-1,24H XXX VIDEOS AMADOR REAL
+http://akamaizedx.com:80/odair100/odair100/10033873
+#EXTINF:-1,24H XXX FILMES TRANS
+http://akamaizedx.com:80/odair100/odair100/10033874
+#EXTINF:-1,24H XXX FILMES RUIVAS
+http://akamaizedx.com:80/odair100/odair100/10033875
+#EXTINF:-1,24H XXX FILMES LOIRA
+http://akamaizedx.com:80/odair100/odair100/10033876
+#EXTINF:-1,24H XXX FILMES GOZO PART 2
+http://akamaizedx.com:80/odair100/odair100/10033877
+#EXTINF:-1,24H XXX FILMES GOZO PART 1
+http://akamaizedx.com:80/odair100/odair100/10033878
+#EXTINF:-1,24H XXX FLAGRA
+http://akamaizedx.com:80/odair100/odair100/10033881
+#EXTINF:-1,24H XXX WOW PORN
+http://akamaizedx.com:80/odair100/odair100/10033882

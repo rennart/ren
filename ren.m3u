@@ -33,6 +33,14 @@ http://45.165.178.82:8000/play/a014/index.m3u8
 http://45.165.178.82:8000/play/a00k/index.m3u8
 #EXTINF:-1,MEGA TV
 http://45.165.178.82:8000/play/a00m/index.m3u8
+#EXTINF:-1,A&E HD
+http://177.91.162.202:8000/play/AeE/index.m3u8
+#EXTINF:-1,AMC HD
+http://177.91.162.202:8000/play/AMC/index.m3u8
+#EXTINF:-1,AXN HD
+http://177.91.162.202:8000/play/AXN/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://177.91.162.202:8000/play/AnimalPlanet/index.m3u8
 #EXTINF:-1,REDEVIDA EDUCACAO
 http://45.165.178.82:8000/play/a00h/index.m3u8
 #EXTINF:-1,REDEVIDA EDUCACAO 2
